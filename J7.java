@@ -2,7 +2,7 @@ package com.om;
 
 import java.util.Scanner;
 
-public class seven {
+public class J7 {
     public static void main(String[] args) {
         Scanner n = new Scanner(System.in);
         int a = n.nextInt();

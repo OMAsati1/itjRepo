@@ -1,6 +1,6 @@
 package com.om;
 import java.util.Scanner;
-public class Two {
+public class J2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter any three numbers");

@@ -1,6 +1,6 @@
 package com.om;
 
-public class twelve {
+public class J12 {
     public static void main(String[] args) {
         String name="om asati";
         String n="om asati";

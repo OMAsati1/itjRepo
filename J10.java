@@ -3,7 +3,7 @@ package com.om;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ten {
+public class J10 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList<Integer> list=new ArrayList<>(10);

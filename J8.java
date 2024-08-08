@@ -3,7 +3,7 @@ package com.om;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class eight {
+public class J8 {
     public static void main(String[] args) {
 //        int [] a= new int[5];
 //       a[0]=0;

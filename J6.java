@@ -3,7 +3,7 @@ package com.om;
 
 import java.util.Arrays;
 
-public class six {
+public class J6 {
 //    public static void main(String[] args) {
 //        int a = 10, b = 20;
 //        System.out.println("Before swapping: a = " + a + ", b = " + b);

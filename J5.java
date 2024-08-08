@@ -2,7 +2,7 @@ package com.om;
 
 import java.util.Scanner;
 
-public class five
+public class J5
 {
 
     public static void main(String[] args) {
