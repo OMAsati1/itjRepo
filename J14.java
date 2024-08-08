@@ -18,6 +18,19 @@ public class J14 {
             s+=ch;
         }
         System.out.println(s);
+//        char cha='s';
+//        String ser="hjschdbqoi";
+//        System.out.println(ser.indexOf(cha));
 
+        //...................................................
+
+//        char cha = '1';
+//boolean isLetter = Character.isLetter(cha);
+//
+//if (isLetter) {
+//    System.out.println(cha + " is a letter.");
+//} else {
+//    System.out.println(cha + " is not a letter.");
+//}
     }
 }

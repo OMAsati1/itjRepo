@@ -16,8 +16,9 @@ public class J16 {
         return true;
     }
     public static void main(String[] args) {
-        String str= "Massam";
-        System.out.println(isPalidrome(str));
+//        String str= "Massam";
+        boolean b = isPalidrome("massam");
+        System.out.println(b);
 //        System.out.println(str.charAt(2));
 //        System.out.println(str.length());
     }
